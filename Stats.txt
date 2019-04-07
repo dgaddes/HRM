@@ -1,3 +1,3 @@
-The Average Peak occurs at 90.640000
+The Average Peak occurs at 88.810000
  The Standard deviation of the peaks is 0.090000
- The pecentage of wells determined to be positive is 0.664000
+ The pecentage of wells determined to be positive is 0.171000
